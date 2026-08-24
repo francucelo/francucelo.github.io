@@ -34,7 +34,7 @@ pipi lili li pini lukin la, ona li ken ala pilin e ni: lipu ni li lon. kasi li j
 
 pipi lili li moku la, ona li wile ala li pilin monsuta. pipi lawa ante li kama, li toki tawa ona e ni: "sina lukin e lipu, lon ala lon? o pilin monsuta ala. moku tawa pipi lawa li jo ala e namako". pipi lili li lukin tawa ona li toki e ni: "sina mute li ken ala pali e ni! ona li pipi kulupu kin! pipi pini mute li pali tawa ala ni!".
 
-pipi lawa li musi li kalama. ona li toki e ni: "pipi o. mi mute li kulupu. sina o sona. pipi anpa li utala ala tawa mi mute la, pipi ale li pona. kin la, pipi li mute, ni li pona tawa pipi ale". pipi lili li toki e ni: "o pini!" li weka.
+pipi lawa li musi li kalama. ona li toki e ni: "pipi o. mi mute li kulupu. sina o sona. pipi anpa li utala ala tawa mi mute la, mi ale li pona. kin la, pipi li mute, ni li pona tawa pipi ale". pipi lili li toki e ni: "o pini!" li weka.
 
 suno sin la, suno ni li suno lape. pipi lili li kama tomo ona. pipi ante li lon tomo ona kin, li pipi pona ona. pipi ante li toki pona tawa pipi lili. ona mute li moku. taso pipi lili li lukin e moku li ken ala moku. pipi ante li sona ala li toki alasa. pipi lili li ken ala toki.
 
