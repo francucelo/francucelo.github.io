@@ -51,6 +51,6 @@ pipi wan li toki alasa: "seme?! taso... ona li pipi pona mi..." taso pipi ante l
 
 pipi lawa li toki kalama e ni: "pipi ale o! pipi sama ona li ike, li pakala, li jaki tawa kulupu, lon ala lon a?!" pipi ante li kalama: "lon a!" pipi lawa li awen toki e ni: "ona o moli!" pipi ante li kalama e ni: "o moli!" kin.
 
-pini la, pipi ale li kalama li toki pakala e pipi lili. pipi lili li pilin pakala ale li ken ala toki. pipi ale li moli e ona.
+pipi ale li kalama li toki pakala e pipi lili. pipi lili li pilin pakala ale li ken ala toki. tenpo pini la, pipi lili li wile pona e kulupu. taso pini la, kulupu ale li moli e ona.
 
 pini.
