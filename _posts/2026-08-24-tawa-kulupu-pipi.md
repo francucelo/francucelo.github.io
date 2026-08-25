@@ -32,7 +32,7 @@ suno sin la, pipi lili li kama tomo lawa, li pali. ona li pilin e ni: "mi o pona
 
 pipi lili li pini lukin la, ona li ken ala pilin e ni: lipu ni li lon. moku li jo e namako. moku li ken lon lon tenpo mute tan namako ni, taso ona li kama pakala tawa sijelo. 
 
-tenpo li kama tenpo moku. pipi lili li kama tomo moku, taso li wile ala li pilin monsuta. pipi lawa ante li kama, li toki e ni: "sina lukin e lipu, lon ala lon? o pilin monsuta ala. moku tawa pipi lawa li jo ala e namako". pipi lili li lukin tawa ona li toki e ni: "sina mute li ken ala pali e ni! ona li pipi kulupu kin! pipi pini mute li pali tawa ni ala!".
+tenpo moku li kama. pipi lili li kama tomo moku, taso li wile ala li pilin monsuta. pipi lawa ante li kama, li toki e ni: "sina lukin e lipu, lon ala lon? o pilin monsuta ala. moku tawa pipi lawa li jo ala e namako". pipi lili li lukin tawa ona li toki e ni: "sina mute li ken ala pali e ni! ona li pipi kulupu kin! pipi pini mute li pali tawa ni ala!".
 
 pipi lawa li musi li kalama. ona li toki e ni: "pipi o. sina o sona. pipi anpa li utala ala tawa mi mute la, ale li pona. pipi li mute, li wile e moku mute, li wile e namako ni tawa moku mute. ni li pona tawa ale". pipi lili li toki e ni: "o pini!" li weka.
 
