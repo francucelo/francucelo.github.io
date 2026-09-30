@@ -5,7 +5,7 @@ tags: [article]
 lang: ia
 ---
 
-Le beltate de un lingua es majormente su cultura, e secundemente lo ipse, que es principalmente su grammatica. 
+Le beltate de un lingua es majormente su cultura, e secundemente lo ipse, que es principalmente su grammatica, e su aspectos auditive e visual.
 
 Normalmente, on tene al popularitate del lingua. Sed, debe nos totevia tener a si le lingua es grande, quando lo ipse es si belle? Non potera haber un nove cultura magne que le gente basava pro su beltate? Non pote le gente sustener ille que pensa esser belle? Non pote nos fundar nostre proprie cultura? Le responsa essera e esseva 'sic', specialmente al linguas artificial. 
 
