@@ -1,5 +1,5 @@
 ---
-title: "Beltate del Lingua"
+title: "Beltate de Lingua"
 categories: [Interlingua, ia-article]
 tags: [article]
 lang: ia
