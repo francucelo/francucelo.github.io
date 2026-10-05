@@ -8,25 +8,25 @@ lang: ia
 
 Alex e Robin parlar.
 
-- **Alex**: Que tu vole mangiar? Io panes mangiara.
+- **Alex**: Que tu vole eder? Io panes edera.
 - **Robin**: Alex...
 - **Alex**: Que?
-- **Robin**: Pro que tu Interlingua es simile a latino?
-- **Alex**: Quia Interlingua ipse simile a lingua latin es, non?
+- **Robin**: Pro que tu Interlingua es simile a Latino?
+- **Alex**: Quia Interlingua ipse simile al lingua Latino es, nonne?
 - **Robin**: Ma tu modo de parlar es tro latin!
 - **Alex**: Sed es totevia Interlingua!
-- **Robin**: Vide! Pro que tu iste ordine usa?! E pro que tu usa parolas ab latino?!
+- **Robin**: Vide! Pro que tu iste ordine usa?! E pro que tu usa parolas ex Latino?!
 - **Alex**: Io ama, que es mal?
 - **Robin**: Bon... Nil es mal! Parla con tu modo latin!
-- **Alex**: Bon. Ergo, tu que vole mangiar?
+- **Alex**: Bon. Ergo, tu que vole eder?
 - **Robin**: Non!
 - **Alex**: Que?
 - **Robin**: Pro que tu non parla normalmente?! Parlar es pro comprender!
 - **Alex**: Tu me demanda quare...
 - **Robin**: Non *quare*! Dice *pro que*!
-- **Alex**: Io senti que iste es belle.
+- **Alex**: Io senti que iste es belle. Quare non pote amar que belle considerate son?
 - **Robin**: ...
 - **Alex**: Hallo?
 - **Robin**: Io parti.
-- **Alex**: Adeo!
+- **Alex**: Bon. Adeo!
 - **Robin**: A deo!
