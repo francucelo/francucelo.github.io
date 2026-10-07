@@ -8,7 +8,7 @@ lang: ia
 
 Un can que irate es videva un catto et lo mordeva. Le catto quem le can moderva non felice era et clamava. Postquam le can iva, le catto al domino del can adi.
 
-Jam le catto ab le domino vidite es, le monstra per su mano al can habent mordite.
+Jam le catto ab le domino vidite es, le monstra per su mano al can habente mordite.
 
 Le domino comprende, et irate se face, quia le catto probe es, tamen su can non probe, sed improbe es.
 
