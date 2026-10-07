@@ -14,4 +14,4 @@ Le domino comprende, et irate se face, quia le catto probe es, tamen su can non 
 
 Le domino irate ad su can adi, et lo que mordeva le catto verbera.
 
-Le catto felice itero es, quia le can punite es, et le domino qui se excusava lo dava un grande pisce. Le domino qui su can verbera irate es, quia su can improbe es. Le can ad que su domino es irate non felice, sed triste es, quia su domino lo verberava. Le canes que le cattos probe morde improbe son!
+Le catto felice itero es, quia le can punite es, et le domino qui se excusava lo dava un grande pisce. Le domino qui su can verbera irate es, quia su can improbe es. Le can ad que su domino es irate non felice, sed triste es, quia su domino lo verberava. Le canes que morde le cattos probe improbe son!
