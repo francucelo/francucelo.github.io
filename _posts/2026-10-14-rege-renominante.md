@@ -44,7 +44,7 @@ Le laborator et le mercator parla.
 - **Lab.**: Non sape... Sed tal nove verbos son jam plus quam centos!
 - **Mer.**: Attende... Le rege veni!
 
-Le rege veni.
+Le rege veni. Felicemente, ille les non audiva.
 - **Reg.**: Salute, mi amicos!
 - **Lab. & Mer.**: A! Salute, mi domino!
 - **Reg.**: Quid tu age? Mi amico?
