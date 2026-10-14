@@ -37,10 +37,10 @@ Le laborator et le mercator parla.
 - **Mer.**: ...? Quid es?
 - **Lab.**: ...Martello. Habe tu martellos?
 - **Mer.**: A! Certe! Tamen... Quare sic diceva tu?
-- **Lab.**: ...Heri le rege me dice que omnes dicera *battente*, et non *martello*.
-- **Mer.**: Quid?! Le rege te dice?! Quam stupide es!
+- **Lab.**: ...Heri le rege me diceva que omnes dicera *battente*, et non *martello*.
+- **Mer.**: Quid?! Le rege te diceva?! Quam stupide es!
 - **Lab.**: Non sic dice! Es le rege!
-- **Mer.**: Sed ridicule es! Forsan era solmente pro rider?
+- **Mer.**: Sed es ridicule! Forsan era solmente pro rider?
 - **Lab.**: Non sape... Sed tal nove verbos son jam plus quam centos!
 - **Mer.**: Attende... Le rege veni!
 
