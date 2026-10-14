@@ -32,7 +32,7 @@ Hoc dictionario jam habe plus quam multe centos vocabulos nove. In illo, non dic
 ## Parte II
 Le die sequente, le rege in le mercato ambula. Ille vide le laborator del die previe qui parla cum un mercator.
 
-Le laborator et le mercator parla.
+Le laborator et le mercator parla. Tamen, ille les non audi, quia ab ille es nimis longe ad illes.
 - **Lab.**: Habe tu... battentes?
 - **Mer.**: ...? Quid es?
 - **Lab.**: ...Martello. Habe tu martellos?
@@ -44,7 +44,7 @@ Le laborator et le mercator parla.
 - **Lab.**: Non sape... Sed tal nove verbos son jam plus quam centos!
 - **Mer.**: Attende... Le rege veni!
 
-Le rege veni. Felicemente, ille les non audiva, quia ab ille era nimis longe ad illes.
+Le rege veni.
 - **Reg.**: Salute, mi amicos!
 - **Lab. & Mer.**: A! Salute, mi domino!
 - **Reg.**: Quid tu age? Mi amico?
