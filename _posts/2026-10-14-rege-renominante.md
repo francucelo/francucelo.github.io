@@ -30,9 +30,9 @@ Postquam le rege al castello retorna, ille scribe un nove linea in le *Nove Dict
 Hoc dictionario jam habe plus quam multe centos vocabulos nove. In illo, non dice *philosophia*, sed *cogitation magne*; non dice *grammatica*, sed *regulas de lingua*; non dice *comedia*, sed *ridentificante*.
 
 ## Parte II
-Le die sequente, le rege in le mercato ambula. Ille vide le laborator del die previe qui parla cum un mercator.
+Le die sequente, le rege in le mercato ambula. Ille vide le laborator del die previe qui parla cum un mercator. Tamen, ille les non audi, quia ab ille es nimis longe ad illes.
 
-Le laborator et le mercator parla. Tamen, ille les non audi, quia ab ille es nimis longe ad illes.
+Le laborator et le mercator parla.
 - **Lab.**: Habe tu... battentes?
 - **Mer.**: ...? Quid es?
 - **Lab.**: ...Martello. Habe tu martellos?
