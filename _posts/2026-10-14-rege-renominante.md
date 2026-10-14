@@ -27,7 +27,7 @@ Hodie, le rege in un via ambula. Ille vide un laborator, et le saluta.
 
 Postquam le rege al castello retorna, ille scribe un nove linea in le *Nove Dictionario*: "battente, non martello". 
 
-Hoc dictionario jam habe plus quam multe centos vocabulos nove. In illo, non dice *philosophia*, sed *cogitation magne*; non dice *grammatica*, sed *regulas de lingua*; non dice *comedia*, sed *ridentificante*; non dice *catto*, sed *miau*.
+Hoc dictionario jam habe plus quam multe centos vocabulos nove. In illo, non dice *philosophia*, sed *cogitation magne*; non dice *grammatica*, sed *regulas de lingua*; non dice *comedia*, sed *ridentificante*.
 
 ## Parte II
 Le die sequente, le rege in le mercato ambula. Ille vide le laborator del die previe qui parla cum un mercator.
