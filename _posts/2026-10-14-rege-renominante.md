@@ -37,7 +37,7 @@ Le laborator et le mercator parla.
 - **Mer.**: ...? Quid es?
 - **Lab.**: ...Martello. Habe tu martellos?
 - **Mer.**: A! Certe! Tamen... Quare sic diceva tu?
-- **Lab.**: ...Heri le rege me diceva que omnes dicera *battente*, et non *martello*.
+- **Lab.**: ...Heri, le rege me diceva que omnes dicera *battente*, et non *martello*.
 - **Mer.**: Quid?! Le rege te diceva?! Quam stupide es!
 - **Lab.**: Non sic dice! Es le rege!
 - **Mer.**: Sed es ridicule! Forsan era solmente pro rider?
@@ -54,7 +54,7 @@ Le rege veni. Felicemente, ille les non audiva.
 - **Lab.**: A... Sic es. Io vole emer un nove... battente...
 - **Reg.**: ...? A... A! Ben! Un battente nove tu vole!
 - **Mer.**: Sic es, mi domino... Et quid tu vole?
-- **Reg.**: Nil. Io veni pro solmente vos salutar. Etiam heri le *Nove Dictionario* habe dece nove vocabulos. Non oblida lo leger!
+- **Reg.**: Nil. Io veni pro solmente vos salutar. Etiam, heri le *Nove Dictionario* habeva dece nove vocabulos. Non oblida lo leger!
 - **Lab. & Mer.**: Certe, mi domino! Non oblidara!
 - **Reg.**: Ben, mi amicos. Adeo!
 - **Lab. & Mer.**: Adeo, mi domino!
