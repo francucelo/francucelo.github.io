@@ -4,6 +4,7 @@ categories: [Chinese, zh-design]
 tags: [design]
 lang: zh
 ---
+
 最近构思了一个人工智能。它的核心原理就是在强化学习的基础上引入PAD emotional state model（PAD情绪模型），为了能够模拟真实的生物学习。
 
 PAD情绪模型把人类情绪解构为了三个光谱：愉悦至不愉悦、高强度至低强度、支配至不可支配。理论上，人类所感知的情绪都能用这三个光谱表示，而进一步则需要逻辑判断。
