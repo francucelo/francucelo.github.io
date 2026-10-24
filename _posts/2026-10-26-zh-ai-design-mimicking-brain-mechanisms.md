@@ -1,5 +1,5 @@
 ---
-title: "人工智能模拟大脑机制的构想"
+title: "AI模拟大脑机制的构想"
 categories: [Chinese, zh-design]
 tags: [design]
 lang: zh
