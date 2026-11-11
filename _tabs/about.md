@@ -9,6 +9,7 @@ Writings, such as diaries, ideas, articles and stories. Mainly in Chinese, somet
 I am currently a French high school student. My native language is Chinese, and I also use English frequently.
 
 # Works
+- [Works](#works)
 - [Textbooks](#textbooks)
   - [lawa toki pi toki pona](#lawa-toki-pi-toki-pona)
   - [The Basic Grammar of Ido](#the-basic-grammar-of-ido)
@@ -33,6 +34,6 @@ This demonstrates that Toki Pona is a language with a full capacity for expressi
 # Translations
 ## sitelen suli pi ken jan
 
-A translation of *the Declaration of the Rights of Man and of the Citizen* in Toki Pona, written in August 2026. It demonstrates that a minimalist language can still convey profound thoughts.
+A translation of *the Declaration of the Rights of Man and of the Citizen* in Toki Pona, written in August 2026, and was later revised and published on Wikisource. It demonstrates that a minimalist language can still convey profound thoughts.
 
-- [sitelen suli pi ken jan](/posts/sitelen-suli-pi-ken-jan/)
+- [sitelen suli pi ken jan](https://wikisource.org/wiki/Sitelen_suli_pi_ken_jan)
