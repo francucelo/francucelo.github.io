@@ -5,7 +5,7 @@ tags: [literature]
 lang: tok
 description: "Chinese Proverb in Toki Pona"
 ---
-"此地无银三百两，隔壁王二不曾偷" li toki lili pi sona suli pi ma Sonko. ona li toki sona e ni:
+"此地无银三百两，隔壁王二不曾偷" li toki lili pi sona suli lon ma Sonko. ona li toki sona e ni:
 
 jan San li jo e mani mute.
 
