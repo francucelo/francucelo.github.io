@@ -7,7 +7,7 @@ description: "Chinese Proverb in Toki Pona"
 ---
 "此地无银三百两，隔壁王二不曾偷" li toki lili pi sona suli pi ma Sonko. ona li toki sona e ni:
 
-jan wan li kama jo e mani mute.
+jan San li kama jo e mani mute.
 
 ona li wile ala e ni "jan ante li sona li lanpan e mani ona" li kama lon anpa ma e mani ona, taso ona li pilin e ni "jan ante li awen ken sona li awen ken lanpan" li sitelen lon lipu wan e ni: mani li lon ni ala.
 
