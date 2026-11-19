@@ -79,7 +79,8 @@ It’s okay. Modern Greek has also been dumbed down to everyone being malaka and
 ### A
 It’s the truth. Idk what else to tell yeah
 
-## E (in a sarcastic tone with ad hominem)
+## E
+>  In a sarcastic tone with ad hominem.
 ### E
 Aaaand do you speak Ancient Greek?
 
