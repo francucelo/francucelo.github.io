@@ -39,7 +39,7 @@ By the way, you might think it is English itself that is limiting your expressio
 
 With all due respect, your text is a chaotic mix of fragmented arguments without explanations or examples, and examples or explanations without arguments, from your very first sentence, "If you know a lot about language you know English is one of the worst ways to communicate ong [sic]". Even translating it into ancient Greek or Latin would not make it any better.
 
-I'm not talking sh*t. In other comments, I've seen that you are interested in Ancient Greek and Ancient Greek culture; and since Ancient Greek, Aristotle has already clearly presented the argument-evidence structure in his work *Rhetoric*.
+I'm not talking sh\*t. In other comments, I've seen that you are interested in Ancient Greek and Ancient Greek culture; and since Ancient Greek, Aristotle has already clearly presented the argument-evidence structure in his work *Rhetoric*.
 
 You might think that the reason I couldn't understand you at first was due to the English language and English culture, but in fact, you've been using such fragmented expressions the whole time, leaving people only with a vague understanding. Do you really think that Latin and Ancient Greek alone can magically make up an entire line of reasoning for you?
 
